@@ -22,8 +22,9 @@ A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS."
 ,mpc,"is a terminal interface for mpd."
 ,mpv,"is the patrician's choice video player."
 ,man-db,"lets you read man pages of programs."
+,libreoffice-still,"is a a free and powerful office suite"
 ,ncmpcpp,"a ncurses interface for music with multiple formats and a powerful tag editor."
-A,librewolf-bin,"hardened firefox fork
+A,librewolf-bin,"is a hardened firefox fork
 ,noto-fonts-emoji,"is an emoji font."
 ,ntfs-3g,"allows accessing NTFS partitions."
 ,pulseaudio-alsa,"is the audio system."
